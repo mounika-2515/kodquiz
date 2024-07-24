@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(197, 152, 112);
+  }
+  .Quiz{
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background-color:rgb(200, 232, 234);
+  }
